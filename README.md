@@ -3,6 +3,7 @@
 **Descripción:**
 
 Tu Amigo Fiel es una aplicación Android diseñada para ayudar a las tiendas de mascotas a gestionar su inventario de productos de manera eficiente y vender en linea sus productos. 
+
 **Características principales:**
 
 *   Interfaz de usuario moderna e intuitiva.
