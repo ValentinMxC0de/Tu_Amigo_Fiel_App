@@ -10,7 +10,7 @@ Tu Amigo Fiel es una aplicación Android diseñada para ayudar a las tiendas de 
 *   Gestión de inventario CRUD (Crear, Leer, Actualizar, Eliminar).
 *   Secciones informativas: Quienes Somos, Contacto y Ubicación.
 *   Integración con Google Maps para mostrar la ubicación de la tienda.
-*   Diseño atractivo con elementos de Material Design y la fuente Poppins.
+*   Diseño atractivo con elementos de Material Design.
 
 **Tecnologías utilizadas:**
 
