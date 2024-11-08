@@ -1,4 +1,4 @@
-# Tu Amigo Fiel: Aplicación Android para Gestión de Inventario de Productos para Mascotas
+# Tu Amigo Fiel: Aplicación Android para Impulsar el negocio en línea  de Productos para Mascotas
 
 **Descripción:**
 
